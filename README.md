@@ -1,2 +1,2 @@
 # snapshot
-programm for chrome extension
+chrome extension app
